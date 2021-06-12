@@ -1,7 +1,7 @@
 export default function ProductsPage() {
   return (
     <div>
-      <p>Yo</p>
+      <p>Products</p>
     </div>
   );
 }
